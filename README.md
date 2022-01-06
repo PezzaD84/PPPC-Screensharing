@@ -5,6 +5,8 @@ The screensharing function is not managable from MDM platforms yet as Apple rest
 
 This profile originated from another source but I cant find it again I am just updating this one. If you are the original owner please contact me so I can credit you.
 
+
+
 # HOW TO
 
-You can download the PPPC Config proifle and upload it to your MDM platform or you can copy the code and compile your own profile from the plist.
+You can download the PPPC Config profile and upload it to your MDM platform or you can copy the code and compile your own profile from the plist.
